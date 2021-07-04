@@ -64,8 +64,3 @@ _At this time several of the above rules are either not working or flawed. I hav
 ```
 
 
-## Alert Example 
-
-_The following is a screenshot of my phone displaying several push notifications using the above rules and templates in conjunction with Pusbullet as my transport endpoint._
-
-![](https://raw.githubusercontent.com/zimmertr/Librenms-Example-Alerts/master/alert_example.png?s=70)
